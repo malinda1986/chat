@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-socket-io-chat-app",
+  "name": "chat-app",
   "version": "0.0.0",
   "private": true,
   "scripts": {
